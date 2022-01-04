@@ -1,1 +1,1 @@
-console.Log ("Tareek was here and he says hi")
+console.log ("tareek was here and says hi")
